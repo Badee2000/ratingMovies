@@ -1,0 +1,18 @@
+Not Done Yet:
+
+1- Security at 'app.js' """"DONE"""".
+2- Handle production errors at 'errorController.js' """"DONE""""
+3- More Validations at 'User.js' """"DONE""""
+
+
+
+4- Reset Password at 'authController.js'. """"FOR LAST""""
+5- Refactor send email for reset email and confirm email. """"FOR LAST""""
+6- Make updateUser run the validators at 'userController.js'. """"FOR LAST""""
+
+----------------------------
+
+NEXT STEP:
+    
+    * Create Ratings Model. """"DONE""""
+    * Create Relations Between Models. """"DONE""""
